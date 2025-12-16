@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SimpleScaler.vcxproj" Id="86f2c772-6c5d-42da-8d8e-349788a1eb56" />
+</Solution>
