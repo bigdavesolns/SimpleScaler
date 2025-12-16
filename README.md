@@ -25,3 +25,7 @@ SimpleScaler --self-test
 Requires:
 * C++ 17
 * OpenCV
+
+## Third-Party Dependencies
+
+This project uses OpenCV, which is licensed under the Apache License 2.0.
