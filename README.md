@@ -18,3 +18,10 @@ SimpleScaler --relative input.png output.png 2.0
 SimpleScaler --absolute input.png output.png 300x200
 SimpleScaler --relative input.png output.png 2 --dry-run
 SimpleScaler --self-test
+```
+
+## Build
+
+Requires:
+* C++ 17
+* OpenCV
